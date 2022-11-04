@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T14:16:13.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="q-IWaWUCrP8JBQeq9cmv" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T14:16:48.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xeoYcqZbC7LjB2I4MPiP" version="20.5.1" type="github">
   <diagram id="jE8hLFV52Thx0o0CY2vt" name="第 1 页">
     <mxGraphModel dx="970" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,6 +236,15 @@
               <mxPoint x="590" y="600" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cD26P5UvuwUGgIYhwSKx-69" value="任务表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="130" y="745" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cD26P5UvuwUGgIYhwSKx-70" value="业务表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="525" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cD26P5UvuwUGgIYhwSKx-71" value="业务服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="115" y="635" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
