@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T18:33:07.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wIgwLcT6QSErm4fkoyka" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T19:24:46.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2OM3E1x30ieeqksXvzsy" version="20.5.3" type="github">
   <diagram id="5nlBT_24B2XMlk60upl5" name="第 1 页">
     <mxGraphModel dx="1845" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,30 +288,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1043.62" as="sourcePoint" />
             <mxPoint x="20" y="1043.62" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d_30PNqLGXJzWuRSK21W-63" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;curved=1;dashed=1;opacity=50;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="890.0000000000002" as="sourcePoint" />
-            <mxPoint x="100" y="890.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d_30PNqLGXJzWuRSK21W-64" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;curved=1;dashed=1;opacity=50;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="915" as="sourcePoint" />
-            <mxPoint x="100" y="915" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d_30PNqLGXJzWuRSK21W-66" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;curved=1;dashed=1;opacity=50;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="868.75" as="sourcePoint" />
-            <mxPoint x="20" y="868.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d_30PNqLGXJzWuRSK21W-68" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=20;curved=1;dashed=1;opacity=50;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="898.75" as="sourcePoint" />
-            <mxPoint x="20" y="898.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d_30PNqLGXJzWuRSK21W-71" value="阻塞" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=1;" vertex="1" parent="1">
